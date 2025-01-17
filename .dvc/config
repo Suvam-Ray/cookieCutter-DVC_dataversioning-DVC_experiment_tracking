@@ -1,0 +1,4 @@
+[core]
+    remote = remote
+['remote "remote"']
+    url = C:\Users\suvam\Desktop\IT Return related docs\Suvam Learning and Training notes\004_MLOps\Sample project\fake_cloud_location\cookieCutter-DVC_dataversioning-DVC_experiment_tracking
