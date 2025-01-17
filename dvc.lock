@@ -10,6 +10,6 @@ stages:
     params:
       params.yaml:
         train:
-          epochs: 6
+          epochs: 8
           n_estimators: 5
           max_depth: 6
