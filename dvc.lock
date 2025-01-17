@@ -5,8 +5,8 @@ stages:
     deps:
     - path: src\models\train_model.py
       hash: md5
-      md5: 2cf9db1c5c801321a0dbe4f296b2fd35
-      size: 658
+      md5: 3aa427a5c8c2d6e6dcf3786828619504
+      size: 616
     params:
       params.yaml:
         train:
